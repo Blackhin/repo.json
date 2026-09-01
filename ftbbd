@@ -1,0 +1,6 @@
+{
+  "name": "My FTV Server",
+  "description": "My personal CloudStream repository",
+  "manifestVersion": 1,
+  "pluginLists": []
+}
